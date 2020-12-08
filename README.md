@@ -18,7 +18,7 @@ This project emerged from the requirements of a study project. During the implem
 
 # Install Requirements
 
-<p align="center"><img src="/render1607443111607.gif?raw=true"/></p>
+<p align="center"><img src="img/render1607443111607.gif?raw=true"/></p>
 
 # Authors :busts_in_silhouette:
 
