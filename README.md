@@ -1,5 +1,4 @@
 # :chart_with_upwards_trend: Optimization-Analysis of different Classification Models
-Compare different classification models and optimize parameter
 
 [![GitHub](https://img.shields.io/github/license/lucastanger/classification_optimization)](https://github.com/lucastanger/classification_optimization/blob/master/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/lucastanger/classification_optimization)
@@ -19,8 +18,8 @@ This project emerged from the requirements of a study project. During the implem
 
 # Authors :busts_in_silhouette:
 
--   **Luca Stanger** - Frontend development & cluster orchestration - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
--   **Florian Drinkler** - Backend development, API maintenance and docker deployment - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
+-   **Luca Stanger** - Machine Learning Engineering - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
+-   **Florian Drinkler** - Machine Learning Engineering - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
 
 # Copyright :copyright:
 
