@@ -16,6 +16,10 @@ This project emerged from the requirements of a study project. During the implem
 - [NumPy](https://numpy.org/) - Scientific computing in python
 - [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning in Python
 
+# Install Requirements
+
+<p align="center"><img src="/render1607443111607.gif?raw=true"/></p>
+
 # Authors :busts_in_silhouette:
 
 -   **Luca Stanger** - Machine Learning Engineering - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
