@@ -10,11 +10,12 @@ This project emerged from the requirements of a study project. During the implem
 
 # Built with :hammer_and_wrench:
 
-- [TensorFlow](https://www.tensorflow.org/learn) - Machine Learning Engine
-- [Keras](https://keras.io/) - Neural Network API
+- [Pandas](https://pandas.pydata.org/) - Python Data Analysis Library
 - [Colab](http://colab.research.google.com/) - Cloud based Jupyter Notebook 
 - [Matplotlib](https://matplotlib.org/) - Visualization library for python
+- [Seaborn](https://seaborn.pydata.org/) - Advanced visualization library based on Matplotlib
 - [NumPy](https://numpy.org/) - Scientific computing in python
+- [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning in Python
 
 # Authors :busts_in_silhouette:
 
