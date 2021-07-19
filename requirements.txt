@@ -1,6 +1,6 @@
 pandas==1.1.4
 matplotlib==3.2.2
 seaborn==0.11.0
-numpy==1.18.5
+numpy==1.21.1
 sklearn==0.22.2.post1
 google.colab==0.0.1a2
